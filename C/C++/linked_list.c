@@ -1,3 +1,13 @@
+/*****************************************************************************************************************
+
+Implementataion of a singly linked list in C. 
+Author: Agboola Olamidipupo Favour
+Github: https://www.github.com/Olamidipupo-favour
+Linkedin: https://www.linkedin.com/in/olamidipupo-agboola-6b3917237/
+Portfolio: https://Olamidipupo-favour.github.io/
+
+******************************************************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
