@@ -469,7 +469,3 @@ void remove_value(node *list, int value)
         }
     }
 }
-int main(void)
-{
-    return 0;
-}

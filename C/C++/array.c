@@ -409,6 +409,3 @@ bool is_empty(vector* v){
     // If the size is 0, then the vector is empty
     return v->size==0;
 }
-int main(void){
-    return 0;
-}
